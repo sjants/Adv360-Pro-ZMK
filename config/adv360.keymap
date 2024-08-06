@@ -33,6 +33,15 @@
     macros {
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        Lock-PC {
+            bindings = <&kp LG(L)>;
+            key-positions = <65 70>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
