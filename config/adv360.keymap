@@ -41,7 +41,7 @@
             key-positions = <65 70>;
         };
 
-        Left-Program {
+        Left-Bootloader {
             bindings = <&bootloader>;
             key-positions = <0 60>;
         };
