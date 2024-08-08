@@ -40,6 +40,11 @@
             bindings = <&kp LG(L)>;
             key-positions = <65 70>;
         };
+
+        insert {
+            bindings = <&kp INSERT>;
+            key-positions = <35 36 52>;
+        };
     };
 
     keymap {
