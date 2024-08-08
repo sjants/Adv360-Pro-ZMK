@@ -42,7 +42,7 @@
         };
 
         insert {
-            bindings = <&kp INSERT>;
+            bindings = <&kp LA(LC(INS))>;
             key-positions = <35 36 52>;
         };
     };
